@@ -1,104 +1,124 @@
-## Hi there 👋
+<div align="center">
 
-<h1 align="center">Hi 👋, I'm Harish Karthick</h1>
+# Harish Karthick S
 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;MERN+Stack+Engineer;Cloud+%26+Backend+Enthusiast;Building+Scalable+Systems" />
-</p>
+### Full Stack Developer · MERN Stack · Cloud & System Design
 
-<h3 align="center">Full Stack Developer • MERN • Cloud • System Design</h3>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Building+full-stack+apps+with+the+MERN+stack;Debugging+auth+flows%2C+CORS%2C+and+deployment+pipelines;Currently+shipping+TrackBuddy+%F0%9F%9A%8C" alt="Typing SVG" />
 
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/harish-karthick-s-099018184)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/__._harishkarthick_.__)
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:karthickh2408@gmail.com)
 
-# 💫 About Me
+</div>
 
-<p align="center">
+<br>
 
-Developer by passion, debugger by necessity.<br>
-Building scalable systems and clean user experiences with modern web technologies.<br>
-Turning coffee ☕ into code and ideas into digital products.
+## About Me
 
-</p>
+I'm a full stack developer who enjoys building complete, working systems end to end — from database schema to deployed UI. Most of what I ship runs on the MERN stack, and I'm comfortable taking a project from local dev through to a live deployment, CORS errors and all.
 
----
+Right now I'm building **TrackBuddy**, a college bus tracking and attendance system using RFID, GPS, and GSM, designed to run on the college's own fleet.
 
-# 🌐 Socials
+- 🔭 Currently building **TrackBuddy** — RFID/GPS-based bus tracking + attendance
+- 🌱 Sharpening skills in cloud deployment (AWS/Azure/GCP) and system design
+- 💬 Ask me about React, Express/MongoDB APIs, or debugging production deploys
+- 📫 Reach me at **karthickh2408@gmail.com**
 
-<p align="center">
+<br>
 
-<a href="https://instagram.com/__._harishkarthick_.__">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-
-<a href="https://linkedin.com/in/harish-karthick-s-099018184">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:karthickh2408@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-</p>
-
----
-
-# 💻 Tech Stack
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=js,ts,cpp,html,react,nodejs,express,mongodb,mysql,postgres,redis,firebase,aws,azure,gcp,git,github,docker,postman,vercel,nginx&perline=10" />
-
-</p>
-
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=harishkarthick2408&show_icons=true&theme=github_dark&hide_border=true"/>
-
-<img height="170em" src="https://nirzak-streak-stats.vercel.app/?user=harishkarthick2408&theme=github_dark&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harishkarthick2408&layout=compact&theme=github_dark&hide_border=true"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=harishkarthick2408&theme=radical&no-frame=true&no-bg=true&margin-w=8"/>
-
-</p>
-
----
-
-# 🔝 Top Contributed Repo
-
-<p align="center">
-
-<img src="https://github-contributor-stats.vercel.app/api?username=harishkarthick2408&limit=5&theme=github_dark&combine_all_yearly_contributions=true"/>
-
-</p>
-
----
-
-<p align="center">
-
-<img src="https://visitcount.itsvg.in/api?id=harishkarthick2408&icon=5&color=6"/>
-
-</p>
-
-<!-- Snake -->
+## Tech Stack
 
 <div align="center">
-  
-  ![snake gif](https://github.com/harishkarthick2408/harishkarthick2408/blob/output/github-snake-dark.svg)
+
+**Languages**
+<br>
+<img src="https://skillicons.dev/icons?i=js,ts,cpp" />
+
+**Frontend**
+<br>
+<img src="https://skillicons.dev/icons?i=react,html,tailwind" />
+
+**Backend**
+<br>
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
+
+**Databases**
+<br>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,redis" />
+
+**Cloud & DevOps**
+<br>
+<img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,nginx,vercel" />
+
+**Tools**
+<br>
+<img src="https://skillicons.dev/icons?i=git,github,postman,firebase" />
+
+</div>
+
+<br>
+
+## Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🚌 TrackBuddy
+College bus tracking and student attendance system built on RFID, GPS, and GSM hardware — deployed directly on the college's own vehicles for real-world use.
+
+`RFID` `GPS` `GSM` `IoT`
+
+</td>
+<td width="50%" valign="top">
+
+### 🎟️ Event Management App
+Full-stack event platform with Student, Organizer, and Admin roles — built with React, Vite, Tailwind, Express, and MongoDB, with role-based auth.
+
+`React` `Express` `MongoDB` `Auth`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### ✅ Task Manager App
+A full-stack task manager with a React/Vite frontend deployed on Vercel and an Express/MongoDB backend on Render — built as a hands-on interview project.
+
+`React` `Vite` `Express` `Render`
+
+</td>
+<td width="50%" valign="top">
+
+### ➕ More on GitHub
+Check out my pinned repositories below for the full list of projects, or explore my activity in the stats section.
+
+[**View all repositories →**](https://github.com/harishkarthick2408?tab=repositories)
+
+</td>
+</tr>
+</table>
+
+<br>
+
+## GitHub Stats
+
+<div align="center">
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=harishkarthick2408&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harishkarthick2408&layout=compact&theme=tokyonight&hide_border=true" />
+</div>
+
+<div align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=harishkarthick2408&theme=tokyonight&hide_border=true" />
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=harishkarthick2408&style=flat-square&color=38bdf8" alt="profile views" />
+
+*Thanks for stopping by — let's build something.*
+
 </div>
